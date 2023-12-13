@@ -26,7 +26,7 @@ print(c)
 ```
 
 ## Output:
-![output](/Screenshot%202023-12-13%20084147.png)
+![output](/output1.png)
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
